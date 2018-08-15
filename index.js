@@ -182,6 +182,7 @@ var appServer = function(config) {
 
     // find and load alexa-app modules
     var app_dir = path.join(self.config.server_root, self.config.app_dir);
+console.log("APPDIR: " + JSON.stringify(app_dir))
     if (utils.isValidDirectory(app_dir)) {
       self.log("loading apps from: " + app_dir);
       self.load_apps(app_dir, self.config.app_root);
