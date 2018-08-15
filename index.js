@@ -18,7 +18,6 @@ var appServer = function(config) {
     debug: true,
     verify: false,
     port: 443,
-    httpEnabled: true,
     httpsEnabled: true,
     public_html: 'public_html',
     server_dir: 'server',
