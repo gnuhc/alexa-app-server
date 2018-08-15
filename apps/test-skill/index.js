@@ -1,8 +1,8 @@
-//module.change_code = 1;
-//'use strict';
+module.change_code = 1;
+'use strict';
 
-import alexa = require( 'alexa-app' );
-let app = new alexa.app( 'test-skill' );
+var alexa = require( 'alexa-app' );
+var app = new alexa.app( 'test-skill' );
 
 
 app.launch( function( request, response ) {
@@ -32,4 +32,4 @@ app.intent('sayNumber',
   }
 );
 
-export app;
+module.exports = app;
