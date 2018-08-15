@@ -17,9 +17,9 @@ var appServer = function(config) {
     log: true,
     debug: true,
     verify: false,
-    port: process.env.port || 8080,
+    port: 443,
     httpEnabled: true,
-    httpsEnabled: false,
+    httpsEnabled: true,
     public_html: 'public_html',
     server_dir: 'server',
     server_root: __dirname,
@@ -250,7 +250,8 @@ var appServer = function(config) {
           self.error("privateKey: '" + self.config.privateKey + "' or certificate: '" + self.config.certificate + "' do not exist in " + sslCertRoot + ", https will not be enabled");
         }
       } else {
-        self.error("httpsPort, privateKey or certificate parameter is not set in config, https will not be enabled");
+        //self.error("httpsPort, privateKey or certificate parameter is not set in config, https will not be enabled");
+        self.error("NO HTTPS")
       }
     }
 
