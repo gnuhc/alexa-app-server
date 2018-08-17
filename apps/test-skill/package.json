@@ -2,7 +2,7 @@
   "name": "m-alexa",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/server.js",
+  "main": "./src/server.ts",
   "scripts": {
     "sls-deploy-local": "serverless deploy --stage local",
     "sls-deploy-staging": "serverless deploy --stage staging",
