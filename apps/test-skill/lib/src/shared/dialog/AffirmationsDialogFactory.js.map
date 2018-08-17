@@ -1,0 +1,1 @@
+{"version":3,"file":"AffirmationsDialogFactory.js","sourceRoot":"","sources":["../../../../src/shared/dialog/AffirmationsDialogFactory.ts"],"names":[],"mappings":";;AAAA,gEAAyD;AAGzD;IAEI,MAAM,CAAC,kBAAkB,CAAC,IAAoB;QAC1C,OAAO,0BAAgB,CAAC,QAAQ,EAAE,GAAG,GAAG,GAAG,0BAAgB,CAAC,cAAc,EAAE,GAAG,GAAG,GAAG,0BAAgB,CAAC,QAAQ,EAAE,CAAC;IACrH,CAAC;CACJ;AALD,4CAKC"}

@@ -1,0 +1,40 @@
+service: 
+  name: m-alexa
+
+plugins:
+  - serverless-scriptable-plugin
+  - serverless-sentry
+  - serverless-plugin-typescript
+  - serverless-offline
+
+custom:
+  scriptHooks:
+    before:deploy:createDeploymentArtifacts: npm run build_before
+    after:package:createDeploymentArtifacts: npm run build_after
+  sentry:
+    dsn: https://1504b932aac241b9829ac8f543e703b6:75170a5ff33d46588e863e59992372cf@sentry.io/300108
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+  stage: ${opt:stage, 'local'}
+  region: us-east-1
+  environment: ${file(./env.yaml):${opt:stage, self:provider.stage}}
+  iamRoleStatements:
+    - Effect: Allow
+      Action: # Gives permission to DynamoDB tables in a specific region
+        - dynamodb:DescribeTable
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:CreateTable
+      Resource: "arn:aws:dynamodb:us-east-1:*:*"
+
+functions:
+  alexa:
+    handler: src/alexa.handler
+    events:
+      - alexaSkill

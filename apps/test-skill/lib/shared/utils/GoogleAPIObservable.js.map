@@ -1,0 +1,1 @@
+{"version":3,"file":"GoogleAPIObservable.js","sourceRoot":"","sources":["../../../../shared/utils/GoogleAPIObservable.ts"],"names":[],"mappings":";;AAAA,2CAA+B;AAC/B,gCAAqC;AAGrC;IACI,MAAM,CAAC,KAAK,CAAI,GAAW;QACvB,OAAO,eAAU;aACZ,WAAW,CAAC,oBAAK,CAAC,GAAG,CAAC,CAAC;aACvB,OAAO,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,CAAC,IAAI,EAAE,CAAC,CAAC;IACpC,CAAC;CACJ;AAND,sCAMC"}

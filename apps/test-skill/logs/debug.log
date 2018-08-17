@@ -1,0 +1,180 @@
+[2018-08-16T09:54:50.804] [INFO] info - ***********************************************************************
+[2018-08-16T09:54:50.806] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:54:50.806] [INFO] info - ***********************************************************************
+[2018-08-16T09:54:50.806] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:54:50.806] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:54:50.806] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:54:50.806] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:54:50.806] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:54:50.806] [INFO] info - ***********************************************************************
+[2018-08-16T09:54:51.561] [INFO] info - ***********************************************************************
+[2018-08-16T09:54:51.563] [INFO] info - this is where id write the it
+[2018-08-16T09:54:51.576] [INFO] info - ***********************************************************************
+[2018-08-16T09:54:51.576] [INFO] info - ****   Utterances:  **** nearby events
+[2018-08-16T09:54:51.576] [INFO] info - ***********************************************************************
+[2018-08-16T09:55:19.244] [INFO] info - ***********************************************************************
+[2018-08-16T09:55:19.245] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:55:19.246] [INFO] info - ***********************************************************************
+[2018-08-16T09:55:19.246] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:55:19.246] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:55:19.246] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:55:19.246] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:55:19.246] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:55:19.246] [INFO] info - ***********************************************************************
+[2018-08-16T09:55:19.326] [INFO] info - ***********************************************************************
+[2018-08-16T09:55:19.328] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:55:19.341] [INFO] info - ***********************************************************************
+[2018-08-16T09:55:19.341] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:55:19.344] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:55:19.344] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:55:19.344] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:55:19.344] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:55:19.344] [INFO] info - ***********************************************************************
+[2018-08-16T09:57:41.911] [INFO] info - ***********************************************************************
+[2018-08-16T09:57:41.912] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:57:41.926] [INFO] info - ***********************************************************************
+[2018-08-16T09:57:41.926] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:57:41.930] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:57:41.930] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:57:41.930] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:57:41.930] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:57:41.930] [INFO] info - ***********************************************************************
+[2018-08-16T09:57:42.013] [INFO] info - ***********************************************************************
+[2018-08-16T09:57:42.014] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:57:42.015] [INFO] info - ***********************************************************************
+[2018-08-16T09:57:42.015] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:57:42.015] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:57:42.015] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:57:42.015] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:57:42.015] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:57:42.015] [INFO] info - ***********************************************************************
+[2018-08-16T09:58:27.242] [INFO] info - ***********************************************************************
+[2018-08-16T09:58:27.242] [INFO] info - ***********************************************************************
+[2018-08-16T09:58:27.244] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:58:27.244] [INFO] info - ***********************************************************************
+[2018-08-16T09:58:27.244] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:58:27.244] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:58:27.245] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:58:27.245] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:58:27.245] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:58:27.245] [INFO] info - ***********************************************************************
+[2018-08-16T09:58:27.243] [INFO] info - it should return the returning user welcome intent
+[2018-08-16T09:58:27.255] [INFO] info - ***********************************************************************
+[2018-08-16T09:58:27.255] [INFO] info - ****   Utterances:  **** Talk to macys dev
+[2018-08-16T09:58:27.258] [INFO] info - **** Response  Matching  *** 
+[2018-08-16T09:58:27.259] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:58:27.259] [INFO] info - ****  Response from Global.ts ***
+[2018-08-16T09:58:27.259] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-16T09:58:27.259] [INFO] info - ***********************************************************************
+[2018-08-17T10:27:57.202] [INFO] info - ***********************************************************************
+[2018-08-17T10:27:57.204] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:27:57.204] [INFO] info - ***********************************************************************
+[2018-08-17T10:31:10.772] [INFO] info - ***********************************************************************
+[2018-08-17T10:31:10.774] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:31:10.774] [INFO] info - ***********************************************************************
+[2018-08-17T10:35:01.473] [INFO] info - ***********************************************************************
+[2018-08-17T10:35:01.475] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:35:01.475] [INFO] info - ***********************************************************************
+[2018-08-17T10:36:01.333] [INFO] info - ***********************************************************************
+[2018-08-17T10:36:01.334] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:36:01.334] [INFO] info - ***********************************************************************
+[2018-08-17T10:37:37.612] [INFO] info - ***********************************************************************
+[2018-08-17T10:37:37.614] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:37:37.614] [INFO] info - ***********************************************************************
+[2018-08-17T10:42:16.230] [INFO] info - ***********************************************************************
+[2018-08-17T10:42:16.231] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:42:16.231] [INFO] info - ***********************************************************************
+[2018-08-17T10:43:32.909] [INFO] info - ***********************************************************************
+[2018-08-17T10:43:32.911] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:43:32.911] [INFO] info - ***********************************************************************
+[2018-08-17T10:46:00.384] [INFO] info - ***********************************************************************
+[2018-08-17T10:46:00.385] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:46:00.385] [INFO] info - ***********************************************************************
+[2018-08-17T10:46:20.180] [INFO] info - ***********************************************************************
+[2018-08-17T10:46:20.181] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:46:20.181] [INFO] info - ***********************************************************************
+[2018-08-17T10:46:45.742] [INFO] info - ***********************************************************************
+[2018-08-17T10:46:45.744] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:46:45.744] [INFO] info - ***********************************************************************
+[2018-08-17T10:47:32.232] [INFO] info - ***********************************************************************
+[2018-08-17T10:47:32.233] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T10:47:32.344] [INFO] info - ***********************************************************************
+[2018-08-17T10:47:32.345] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:47:32.345] [INFO] info - ***********************************************************************
+[2018-08-17T10:50:02.834] [INFO] info - ***********************************************************************
+[2018-08-17T10:50:02.836] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T10:50:03.021] [INFO] info - ***********************************************************************
+[2018-08-17T10:50:03.021] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:50:03.021] [INFO] info - ***********************************************************************
+[2018-08-17T10:56:15.918] [INFO] info - ***********************************************************************
+[2018-08-17T10:56:15.920] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T10:56:15.930] [INFO] info - ***********************************************************************
+[2018-08-17T10:56:15.930] [INFO] info - ****   Utterances:  **** where is macys
+[2018-08-17T10:56:15.932] [INFO] info - **** Response  Not Matching  *** 
+[2018-08-17T10:56:15.932] [INFO] info - <speak> Sorry, I didn’t get that. I can repeat what we were just chatting about, or give you our help menu. Say “repeat”, or “help”. </speak>
+[2018-08-17T10:56:15.932] [INFO] info - ****  Response from Global.ts ***
+[2018-08-17T10:56:15.933] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-17T10:56:15.933] [INFO] info - ***********************************************************************
+[2018-08-17T10:56:16.053] [INFO] info - ***********************************************************************
+[2018-08-17T10:56:16.053] [INFO] info - Data Driven for Location Intent
+[2018-08-17T10:56:16.053] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.198] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.200] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T11:08:11.200] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.200] [INFO] info - ****   Utterances:  **** where is macys
+[2018-08-17T11:08:11.200] [INFO] info - **** Response  Not Matching  *** 
+[2018-08-17T11:08:11.200] [INFO] info - <speak> Sorry, I didn’t get that. I can repeat what we were just chatting about, or give you our help menu. Say “repeat”, or “help”. </speak>
+[2018-08-17T11:08:11.200] [INFO] info - ****  Response from Global.ts ***
+[2018-08-17T11:08:11.200] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-17T11:08:11.200] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.203] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.204] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T11:08:11.208] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.208] [INFO] info - ****   Utterances:  **** where is macys
+[2018-08-17T11:08:11.211] [INFO] info - **** Response  Not Matching  *** 
+[2018-08-17T11:08:11.211] [INFO] info - <speak> Sorry, I didn’t get that. I can repeat what we were just chatting about, or give you our help menu. Say “repeat”, or “help”. </speak>
+[2018-08-17T11:08:11.211] [INFO] info - ****  Response from Global.ts ***
+[2018-08-17T11:08:11.211] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-17T11:08:11.211] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.298] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.299] [INFO] info - Data Driven for Location Intent
+[2018-08-17T11:08:11.299] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.311] [INFO] info - ***********************************************************************
+[2018-08-17T11:08:11.311] [INFO] info - Data Driven for Location Intent
+[2018-08-17T11:08:11.311] [INFO] info - ***********************************************************************
+[2018-08-17T11:10:40.794] [INFO] info - ***********************************************************************
+[2018-08-17T11:10:40.796] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T11:10:40.800] [INFO] info - ***********************************************************************
+[2018-08-17T11:10:40.800] [INFO] info - ****   Utterances:  **** where is macys
+[2018-08-17T11:10:40.803] [INFO] info - **** Response  Not Matching  *** 
+[2018-08-17T11:10:40.803] [INFO] info - <speak> Sorry, I didn’t get that. I can repeat what we were just chatting about, or give you our help menu. Say “repeat”, or “help”. </speak>
+[2018-08-17T11:10:40.803] [INFO] info - ****  Response from Global.ts ***
+[2018-08-17T11:10:40.803] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-17T11:10:40.803] [INFO] info - ***********************************************************************
+[2018-08-17T11:10:40.901] [INFO] info - ***********************************************************************
+[2018-08-17T11:10:40.902] [INFO] info - Data Driven for Location Intent
+[2018-08-17T11:10:40.902] [INFO] info - ***********************************************************************
+[2018-08-17T11:11:38.462] [INFO] info - ***********************************************************************
+[2018-08-17T11:11:38.463] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T11:11:38.467] [INFO] info - ***********************************************************************
+[2018-08-17T11:11:38.467] [INFO] info - ****   Utterances:  **** where is macys
+[2018-08-17T11:11:38.469] [INFO] info - **** Response  Not Matching  *** 
+[2018-08-17T11:11:38.469] [INFO] info - <speak> Sorry, I didn’t get that. I can repeat what we were just chatting about, or give you our help menu. Say “repeat”, or “help”. </speak>
+[2018-08-17T11:11:38.469] [INFO] info - ****  Response from Global.ts ***
+[2018-08-17T11:11:38.469] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-17T11:11:38.469] [INFO] info - ***********************************************************************
+[2018-08-17T11:11:38.582] [INFO] info - ***********************************************************************
+[2018-08-17T11:11:38.583] [INFO] info - Data Driven for Location Intent
+[2018-08-17T11:11:38.583] [INFO] info - ***********************************************************************
+[2018-08-17T11:13:56.676] [INFO] info - ***********************************************************************
+[2018-08-17T11:13:56.677] [INFO] info - it should return the returning user welcome intent
+[2018-08-17T11:13:56.681] [INFO] info - ***********************************************************************
+[2018-08-17T11:13:56.681] [INFO] info - ****   Utterances:  **** where is macys
+[2018-08-17T11:13:56.684] [INFO] info - **** Response  Not Matching  *** 
+[2018-08-17T11:13:56.684] [INFO] info - <speak> Sorry, I didn’t get that. I can repeat what we were just chatting about, or give you our help menu. Say “repeat”, or “help”. </speak>
+[2018-08-17T11:13:56.684] [INFO] info - ****  Response from Global.ts ***
+[2018-08-17T11:13:56.684] [INFO] info - Hello, and welcome to Macy’s. Use this action to find Macy’s store locations, hours, and in-store events, and get information on our return policy and Star Rewards program. Just for fun, we’ve added Macy’s morning affirmations. Get started by asking, “where’s my nearest Macy’s”, “ask Macy’s for store hours”, or “ask what’s happening at Macy’s”. You can also ask, “What’s your return policy” and ask, “what is Star Rewards.” Or “ask Macy’s to say good morning.” More ways to talk to Macy’s are coming soon, so check back in!
+[2018-08-17T11:13:56.684] [INFO] info - ***********************************************************************
+[2018-08-17T11:13:56.777] [INFO] info - ***********************************************************************
+[2018-08-17T11:13:56.777] [INFO] info - Data Driven for Location Intent
+[2018-08-17T11:13:56.777] [INFO] info - ***********************************************************************

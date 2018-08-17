@@ -1,0 +1,66 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "testing",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "StoreLocationIntent",
+                    "slots": [],
+                    "samples": [
+                        "where is macys",
+                        "where is nearest macys",
+                        "where is nearest store",
+                        "where is my nearest macys store",
+                        "where is the nearest macys store",
+                        "where is nearest macys store",
+                        "where is my nearest store",
+                        "where is the nearest store",
+                        "nearest macys store",
+                        "nearest store"
+                    ]
+                },
+                {
+                    "name": "StoreHoursIntent",
+                    "slots": [
+                        {
+                            "name": "date",
+                            "type": "AMAZON.DATE"
+                        }
+                    ],
+                    "samples": [
+                        "store hours {date}",
+                        "what is macys store hours",
+                        "what are store hours",
+                        "store hours for {date}"
+                    ]
+                },
+                {
+                    "name": "StoreEventsIntent",
+                    "slots": [],
+                    "samples": [
+                        "store events",
+                        "what are store events",
+                        "what store events are there"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
