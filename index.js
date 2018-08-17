@@ -90,8 +90,11 @@ var appServer = function(config) {
         self.error("   failed to load " + package_json);
         return;
       }
-
-      var main = fs.realpathSync(path.join(app_dir, dir, pkg.main));
+console.log("APPDIR: " + JSON.stringify(app_dir))
+console.log("DIR: " + JSON.stringify(dir))
+console.log("PKGMAIN: " + JSON.stringify(pkg.main))
+      var main = fs.realpathSync(path.join(app_dir, dir, pkg.main))
+console.log("MAIN: " + JSON.stringify(main))      
       if (!utils.isValidFile(main)) {
         self.error("   main file not found for app [" + pkg.name + "]: " + main);
         return;
